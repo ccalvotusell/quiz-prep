@@ -1,3 +1,14 @@
+/*
+==============================================================================
+Aplicació desenvolupada per Carla Calvó-Tusell © 2026
+
+Ús privat exclusiu per a persones autoritzades.
+
+No es permet la còpia, modificació, redistribució o compartició
+sense autorització explícita de l'autora.
+
+==============================================================================
+*/
 window.PREGUNTES = [
   {
     "id": "T1_Q1_9bcce855",
